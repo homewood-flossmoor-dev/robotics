@@ -1,6 +1,6 @@
-  int vSpeed = 110;        // MAX 255
-  int turn_speed = 230;    // MAX 255 
-  int turn_delay = 10;
+  int vSpeed = 255;        // MAX 255
+  int turn_speed = 255;    // MAX 255 
+  int turn_delay = 5;
   
 //L293 Connection   
   const int motorA1      = 8;  
